@@ -1,6 +1,7 @@
 body{
-    background: url("patronformulario.png");
+    background-image: url("img/back.jpg");
     padding-top: 100px;
+    
 }
 
 #container{
